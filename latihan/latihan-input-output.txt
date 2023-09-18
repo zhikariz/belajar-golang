@@ -1,0 +1,9 @@
+Buatlah sebuah aplikasi console / cli untuk penjualan barang (kasir)
+dengan kategori sebagai berikut :
+1. memiliki daftar barang
+2. memiliki inputan jumlah barang yang dibeli
+3. tampilkan total dari barang yang dibeli dan total biayanya
+4. cetak hasil total / invoice tadi kedalam suatu file
+
+disimpan ke repository github masing2
+18/09/2023
